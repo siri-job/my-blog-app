@@ -53,7 +53,7 @@ function Post() {
         </div>
         <div className="w-full mb-6">
           <h1 className="text-2xl font-bold text-center mb-4">{post.title}</h1>
-          <div className="text-center">{parse(post.content)}</div>
+          <div className="">{parse(post.content)}</div>
         </div>
       </div>
     </div>

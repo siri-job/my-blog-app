@@ -16,7 +16,7 @@ function Postcard({ $id, featuredImage, title }) {
           />
         </div>
         <div className="p-4">
-          <p className="text-lg font-semibold text-center">{title}</p>
+          <p className="text-lg font-semibold text-cneter">{title}</p>
         </div>
       </div>
     </Link>
