@@ -1,8 +1,15 @@
-# React + Vite
+## Description
+The Blog App is a simple and user-friendly platform for users to create, edit, view, and delete blog posts. It allows users to manage content easily, making it ideal for writers, bloggers, or anyone who wants to share their ideas online.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+* Create, edit, and delete blog posts.
+* View a list of all blog posts.
+* Responsive design for seamless usage on all devices.
+* Lightweight and easy to use.
 
-Currently, two official plugins are available:
+## Technologies Used
+* Frontend: React, Tailwind CSS
+* Backend: Appwrite
+* Database: NoSQL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### [Live link] (https://my-react-blogapp.netlify.app/)
